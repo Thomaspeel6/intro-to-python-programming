@@ -1,22 +1,16 @@
-# Intro to Programming  
+# Introduction to Programming (Python)
 
-## Description  
-This repository contains beginner‑friendly exercises and examples written in Python. It serves as a primer for those starting their programming journey, covering variables, control flow, functions and basic data structures.  
+My work from the first-year Introduction to Programming module at the University of Leeds.
 
-## Contents  
-- Script files demonstrating specific concepts  
-- Simple projects and challenges  
-- Notes and comments explaining each step  
+| Folder / file | What's in it |
+|---|---|
+| `CW1/cwk1.py` | Coursework 1: a set of functions for list, string and puzzle problems (grid validation, grouping, counting, pricing) |
+| `CW2/cwk2-files/diabetes.py` | Coursework 2: a `Diabetes` class that loads a patient CSV with only the `csv` module and produces statistics and HTML reports |
+| `worksheet19` | Reading COVID case data from CSV and generating an HTML table |
+| `hmtl`, `Java scripts`, `index.html` | Small exercises generating HTML from Python and a first look at JavaScript |
 
-## Getting Started  
-1. Clone the repo: `git clone https://github.com/Thomaspeel6/Intro-to-programming-.git`  
-2. Run a script: `python3 <script_name>.py`  
+Run any script with Python 3:
 
-## Technologies Used  
-- Python 3.x  
-
-## Contributing  
-If you have exercises or improvements, feel free to fork and submit a pull request. Please ensure code is commented and beginner‑friendly.  
-
-## License  
-MIT License.
+```bash
+python3 CW1/cwk1.py
+```
